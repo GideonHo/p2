@@ -15,6 +15,7 @@
 		<div id="nav">
 			<ul>
 				<li><a href="">Home</a></li>
+				<li><a href="p1.gideonho.com">Project 1</a></li>
 			</ul>
 		</div>
 		<div id="main">
